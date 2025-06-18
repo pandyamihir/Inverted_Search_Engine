@@ -1,0 +1,25 @@
+#[0]
+word is [are]: file count is 2:file/s: file is file.txt: word count is 2 
+file is file1.txt: word count is 2 
+
+word is [am]: file count is 2:file/s: file is file.txt: word count is 2 
+file is file1.txt: word count is 2 
+
+#[6]
+word is [good.]: file count is 1:file/s: file is file.txt: word count is 2 
+
+#[7]
+word is [Hello]: file count is 2:file/s: file is file.txt: word count is 2 
+file is file1.txt: word count is 2 
+
+word is [how]: file count is 2:file/s: file is file.txt: word count is 2 
+file is file1.txt: word count is 2 
+
+#[8]
+word is [I]: file count is 2:file/s: file is file.txt: word count is 2 
+file is file1.txt: word count is 2 
+
+#[24]
+word is [you?]: file count is 2:file/s: file is file.txt: word count is 2 
+file is file1.txt: word count is 2 
+
